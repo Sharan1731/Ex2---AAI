@@ -1,4 +1,4 @@
-<H3>Enter Name: SHARAN G L</H3>
+<H3>Enter Name: SHARAN G </H3>
 <H3>Enter Register No: 212223230203</H3>
 <H3>Experiment 2</H3>
 <H3>Date: 18-11-2026</H3>
